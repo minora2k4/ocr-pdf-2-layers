@@ -47,7 +47,7 @@ Before installation, make sure you have:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/minoraNGUYXN/pdf_2_layers.git
+git clone https://github.com/minora2k4/pdf_2_layers.git
 cd pdf_2_layers
 ```  
 ### 2. Configure environment
